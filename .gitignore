@@ -1,0 +1,4 @@
+backend/.env
+backend/go.sum
+backend/olhar-biblico
+frontend/package-lock.json
